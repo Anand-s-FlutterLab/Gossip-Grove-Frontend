@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182690166333",
+    "project_id": "gossip-grove",
+    "storage_bucket": "gossip-grove.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182690166333:android:adf72d3c8020f6e45e5c54",
+        "android_client_info": {
+          "package_name": "com.example.gossip_grove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ0PcvvdIy7xPZ4imQjX43DzcQTOEVW0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
